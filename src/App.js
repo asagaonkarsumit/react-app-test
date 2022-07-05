@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          sumit test 1{" "}
+          CUR test 1 application CI-CD
         </a>{" "}
       </header>{" "}
     </div>
