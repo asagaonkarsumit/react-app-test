@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          CUR test 1 application CI-CD
+          CUR test 1 application CI-CD1
         </a>{" "}
       </header>{" "}
     </div>
